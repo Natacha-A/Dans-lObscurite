@@ -157,7 +157,7 @@ Transform:
   - {fileID: 1682583793}
   - {fileID: 1711813125}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &8244346
 PrefabInstance:
@@ -2558,7 +2558,7 @@ Transform:
   - {fileID: 633971027}
   - {fileID: 1071152486}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &193488113
 GameObject:
@@ -2595,7 +2595,7 @@ Transform:
   - {fileID: 1912492758}
   - {fileID: 847863510}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &204827271
 GameObject:
@@ -2923,7 +2923,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 50929.582
-  m_Range: 50
+  m_Range: 100
   m_SpotAngle: 121.503395
   m_InnerSpotAngle: 9.840716
   m_CookieSize: 10
@@ -2967,7 +2967,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6430
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 50}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 100}
   m_UseBoundingSphereOverride: 1
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -2980,7 +2980,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 225090439}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.4835687, y: 24.2, z: -45.74}
+  m_LocalPosition: {x: 1.4835687, y: 4.1, z: -47.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3683,7 +3683,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Quitte
+  m_Text: Quitter
 --- !u!222 &298064864
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3884,7 +3884,7 @@ Transform:
   - {fileID: 1556071673}
   - {fileID: 410335480}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &324570778
 PrefabInstance:
@@ -4198,6 +4198,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 330252333}
+  - component: {fileID: 330252334}
   m_Layer: 0
   m_Name: Famille Choisit
   m_TagString: Untagged
@@ -4223,8 +4224,21 @@ Transform:
   - {fileID: 1423266550}
   - {fileID: 1235481795}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &330252334
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330252332}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 12.877013, y: 7.7916355, z: 3.9588776}
+  m_Center: {x: -3.408527, y: -3.3958178, z: 4.389412}
 --- !u!1001 &336279862
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11928,7 +11942,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 746089584}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 4.4, y: 26.15, z: -21.2}
+  m_LocalPosition: {x: 4.4, y: 18.17, z: -24.18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12104,7 +12118,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 50929.582
-  m_Range: 50
+  m_Range: 100
   m_SpotAngle: 121.503395
   m_InnerSpotAngle: 9.840716
   m_CookieSize: 10
@@ -12148,7 +12162,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6430
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 50}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 100}
   m_UseBoundingSphereOverride: 1
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -12754,7 +12768,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 50929.582
-  m_Range: 50
+  m_Range: 100
   m_SpotAngle: 121.503395
   m_InnerSpotAngle: 9.840716
   m_CookieSize: 10
@@ -12798,7 +12812,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6430
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 50}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 100}
   m_UseBoundingSphereOverride: 1
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -12811,7 +12825,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 770138687}
   m_LocalRotation: {x: -1, y: 0, z: 0, w: 0}
-  m_LocalPosition: {x: 3.82, y: 25.1, z: 14.3}
+  m_LocalPosition: {x: 3.82, y: 4.1, z: 7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12845,7 +12859,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 772980177}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 88036}
+  m_LocalPosition: {x: 0, y: 0, z: 87244}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -17676,7 +17690,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0.034, y: 0.102, z: -0.267}
 --- !u!1 &1242412013
 GameObject:
@@ -18814,7 +18828,7 @@ Transform:
   - {fileID: 873356673}
   - {fileID: 940875010}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1313375002
 GameObject:
@@ -20404,7 +20418,7 @@ Transform:
   - {fileID: 564688223}
   - {fileID: 1554663265}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1400316242
 PrefabInstance:
@@ -24010,7 +24024,7 @@ Transform:
   - {fileID: 43294009}
   - {fileID: 1620704798}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1645285349
 GameObject:
@@ -24084,7 +24098,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Bonjour, vous venez de vivre l'exp\xE9rience d'une personne marginaliser
-    de la soci\xE9t\xE9. Comment avez-vous v\xE9cue l'exp\xE9rience ?"
+    de la soci\xE9t\xE9. Comment avez-vous v\xE9cu l'exp\xE9rience ?"
 --- !u!222 &1645285352
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24491,12 +24505,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1658537150}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.26, y: 0.75, z: 177.16}
+  m_LocalPosition: {x: 2.26, y: 0.75, z: 176.06}
   m_LocalScale: {x: 13.4267235, y: 6.0116, z: 6.3662844}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1674566605
 PrefabInstance:
@@ -24693,7 +24707,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1682583792}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 4.4, y: 26.15, z: -16.7}
+  m_LocalPosition: {x: 4.4, y: 18.17, z: -12.54}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -24869,7 +24883,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 50929.582
-  m_Range: 50
+  m_Range: 100
   m_SpotAngle: 121.503395
   m_InnerSpotAngle: 9.840716
   m_CookieSize: 10
@@ -24913,7 +24927,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6430
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 50}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 100}
   m_UseBoundingSphereOverride: 1
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -25044,7 +25058,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1711813124}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: -0.7071068}
-  m_LocalPosition: {x: 4.4, y: -14, z: -16.2}
+  m_LocalPosition: {x: 4.4, y: -2.496, z: -16.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -25220,7 +25234,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 50929.582
-  m_Range: 50
+  m_Range: 100
   m_SpotAngle: 121.503395
   m_InnerSpotAngle: 9.840716
   m_CookieSize: 10
@@ -25264,7 +25278,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6430
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 50}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 100}
   m_UseBoundingSphereOverride: 1
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -27859,7 +27873,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1912492757}
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -44, y: 9.14, z: 1.68}
+  m_LocalPosition: {x: -32.52, y: 9.14, z: 1.68}
   m_LocalScale: {x: 4.314365, y: 1, z: 2.472955}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -27967,7 +27981,7 @@ Transform:
   - {fileID: 1744681553}
   - {fileID: 982757227}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1943870693
 GameObject:
@@ -28001,7 +28015,7 @@ Transform:
   - {fileID: 1223997393}
   - {fileID: 262488503}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1949494562
 GameObject:
