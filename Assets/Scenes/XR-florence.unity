@@ -2252,7 +2252,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Par: Florence Lapierre et Natacha Abdallah'
+  m_Text: 'Par: Natacha Abdallah et Florence Lapierre'
 --- !u!222 &187169094
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3707,7 +3707,7 @@ GameObject:
   - component: {fileID: 317349743}
   - component: {fileID: 317349742}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Button Recommencer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13876,7 +13876,7 @@ GameObject:
   - component: {fileID: 853967729}
   - component: {fileID: 853967728}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Button Commencer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20735,7 +20735,7 @@ GameObject:
   - component: {fileID: 1410947019}
   - component: {fileID: 1410947018}
   m_Layer: 5
-  m_Name: Nom jeux (2)
+  m_Name: Titre Experience
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23584,7 +23584,7 @@ GameObject:
   - component: {fileID: 1608473274}
   - component: {fileID: 1608473273}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Button Quitter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
