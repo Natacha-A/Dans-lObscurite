@@ -4872,6 +4872,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: perso_long_mince_rose
       objectReference: {fileID: 0}
+    - target: {fileID: 7888133992267367158, guid: 5058a1563b22bd84da22158077bc8d15,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 5058a1563b22bd84da22158077bc8d15, type: 3}
