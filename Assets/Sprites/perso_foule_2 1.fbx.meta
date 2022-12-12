@@ -3,7 +3,17 @@ guid: c26632d6291bdd24a952097754204532
 ModelImporter:
   serializedVersion: 22103
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodycolour
+    second: {fileID: 2100000, guid: 75265653b63da164b92f9fb7738e6863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botheyescolor
+    second: {fileID: 2100000, guid: 4357ea2d73e765e4991b42d2fea1e10e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
