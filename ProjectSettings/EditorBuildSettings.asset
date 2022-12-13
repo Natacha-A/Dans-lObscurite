@@ -8,9 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/XR-florence.unity
     guid: 8129d92c35f73bf49ba62e725d75a115
-  - enabled: 0
-    path: Assets/Scenes/natacha_abdallah.unity
-    guid: 5daf1694fc5724e42827873a4ab3d95f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 744d476aa63806b47bb2f9f3a061a52f,
       type: 2}
